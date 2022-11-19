@@ -3,7 +3,17 @@ entries:
   formbackendchart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-11-19T20:15:43.146196+05:30"
+    created: "2022-11-19T20:31:08.097893+05:30"
+    description: A Helm chart for Kubernetes [Uses Local Data Server]
+    digest: d91c6638165a3ade3fe8bb969ce53e73f6cb88c3e458f7f2f8e93f9610e71465
+    name: formbackendchart
+    type: application
+    urls:
+    - formbackendchart-0.7.0.tgz
+    version: 0.7.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-11-19T20:31:08.097558+05:30"
     description: A Helm chart for Kubernetes [Uses Local Data Server]
     digest: 80c992bbbbe27561fb05e6e0274d3f45710192a1d13a1bea80b1526dc56729e1
     name: formbackendchart
@@ -13,7 +23,7 @@ entries:
     version: 0.6.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-11-19T20:15:43.145888+05:30"
+    created: "2022-11-19T20:31:08.097046+05:30"
     description: A Helm chart for Kubernetes [Uses Local Data Server]
     digest: 75bcfddb2e796b9b0f615ff2fd973d5d293f6c13f2a0dfed35195d2a54de332b
     name: formbackendchart
@@ -23,7 +33,7 @@ entries:
     version: 0.5.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-11-19T20:15:43.145438+05:30"
+    created: "2022-11-19T20:31:08.096406+05:30"
     description: A Helm chart for Kubernetes [Uses Local Data Server]
     digest: 65dff66d2429c3b8c1be159674fb441dc52ab89283147e9cb03268abd9e18bb6
     name: formbackendchart
@@ -33,7 +43,7 @@ entries:
     version: 0.4.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-11-19T20:15:43.144975+05:30"
+    created: "2022-11-19T20:31:08.095882+05:30"
     description: A Helm chart for Kubernetes [Uses Local Data Server]
     digest: df11b8ccd2450525027d9b2cfe27d109b18bb531deac3c3c117c949c42dd8066
     name: formbackendchart
@@ -43,7 +53,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-11-19T20:15:43.144507+05:30"
+    created: "2022-11-19T20:31:08.095333+05:30"
     description: A Helm chart for Kubernetes [Uses Local Data Server]
     digest: 5231f2a1607df6733b44393d6c71ee356f5bcb1146028ba469ad4f342560e886
     name: formbackendchart
@@ -53,7 +63,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-11-19T20:15:43.143879+05:30"
+    created: "2022-11-19T20:31:08.093589+05:30"
     description: A Helm chart for Kubernetes
     digest: 9df03cac2e207619a75bc1a2fd653d3a97b3beeb8ce65d46fe66ee5ccde57ec7
     name: formbackendchart
@@ -61,4 +71,4 @@ entries:
     urls:
     - formbackendchart-0.1.0.tgz
     version: 0.1.0
-generated: "2022-11-19T20:15:43.143001+05:30"
+generated: "2022-11-19T20:31:08.092621+05:30"
